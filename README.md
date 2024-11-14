@@ -9,6 +9,7 @@
     "Web Development":{
         "Languages":[
             "HTML"
+            "CSS"
     },
     "Desktop App Development":{
         "Languages":[
@@ -17,9 +18,7 @@
     },
     "Database Managers":[
         "PostgreSQL"
-    ],
-    "Operative Systems":[
-        "Kali Linux"
+        "MySQL"
     ],
     "Other technologies & Languages":[
         "git",
