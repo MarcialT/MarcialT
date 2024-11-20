@@ -1,6 +1,13 @@
 <br>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/MarcialT/MarcialT/main/bannerr.jpg">   </div>
+<h1 align="center">Hi 👋, I'm Marcial Trujillo 🙂</h1>
+
+## About Me :
+
+- 🎓 Studies for Software Engineering at [Rafael Urdaneta University](https://uru.edu)
+- 🏡 Lives in **Venezuela**
+- ⚡ I'm a Cibersecurity and Development Enthusiast
+
 
 ## What I am Good at 🧑‍💻 :
 
@@ -26,14 +33,6 @@
     ]
 }
 ```
-
-## About Me :
-
-- 🎓 Studies for Software Engineering at [Rafael Urdaneta University](https://uru.edu)
-- 🏡 Lives in **Venezuela**
-- ⚡ I'm a Cibersecurity and Development Enthusiast
-
-
 
 ## GitHub Stats 📈 :
 
