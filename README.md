@@ -26,6 +26,7 @@
     "Database Managers":[
         "PostgreSQL"
         "MySQL"
+        "MongoDB"
     ],
     "Other technologies & Languages":[
         "git",
