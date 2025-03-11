@@ -17,10 +17,11 @@
         "Languages":[
             "HTML"
             "CSS"
+            "JavaScript"
     },
     "Desktop App Development":{
         "Languages":[
-            "C++",
+            "C++"
             "Python"
     },
     "Database Managers":[
