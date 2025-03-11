@@ -23,6 +23,7 @@
         "Languages":[
             "C++"
             "Python"
+            "Java"
     },
     "Database Managers":[
         "PostgreSQL"
@@ -30,8 +31,9 @@
         "MongoDB"
     ],
     "Other technologies & Languages":[
-        "git",
+        "git"
         "Visual Studio Code"
+        "IntelliJ"
     ]
 }
 ```
