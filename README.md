@@ -24,6 +24,7 @@
             "C++"
             "Python"
             "Java"
+            "C#"
     },
     "Database Managers":[
         "PostgreSQL"
@@ -34,6 +35,8 @@
         "git"
         "Visual Studio Code"
         "IntelliJ"
+        "Eclipse"
+        "DBschema"
     ]
 }
 ```
