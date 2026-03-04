@@ -28,7 +28,9 @@
         "MySQL"
         "MongoDB"
     ],
-    "Other technologies & Languages":[
+
+    "Other technologies. Courses & Languages":[
+        "CCNA1"
         "git"
         "Visual Studio Code"
         "IntelliJ"
