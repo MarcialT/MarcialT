@@ -24,18 +24,18 @@
             "C#"
     },
     "Database Managers":[
-          "PostgreSQL"
-          "MySQL"
-          "MongoDB"
+            "PostgreSQL"
+            "MySQL"
+            "MongoDB"
     ],
 
     "Other technologies. Courses & Languages":[
-          "CCNA1"
-          "git"
-          "Visual Studio Code"
-          "IntelliJ"
-          "Eclipse"
-          "DBschema"
+            "CCNA1"
+            "git"
+            "Visual Studio Code"
+            "IntelliJ"
+            "Eclipse"
+            "DBschema"
     ]
 }
 ```
