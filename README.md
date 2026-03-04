@@ -5,12 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=26&letterSpacing=8px&duration=3000&pause=1000&color=1F64F7FF&center=true&vCenter=true&width=600&lines=Computer+engineering+student;Learning+every+day" alt="Typing SVG" /></a>
 </p>
 
-## About Me :
-
-- 🎓 Studies for Software Engineering at [Rafael Urdaneta University](https://uru.edu)
-- 🏡 Lives in **Venezuela**
-- ⚡ I'm a Cibersecurity and Development Enthusiast
-
 
 ## What I am Good at 🧑‍💻 :
 
@@ -44,12 +38,6 @@
 }
 ```
 
-## GitHub Stats 📈 :
-
-<div style="display: flex; gap: 10px;">
-  <img alt="MarcialT Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MarcialT&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=1E90FF&icon_color=1E90FF" height="192px"/>
-  <img alt="MarcialT Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcialT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1E90FF&icon_color=1E90FF" height="192px"/>
-</div>
 
 <h1>Connect With Me🤝</h1>
 
