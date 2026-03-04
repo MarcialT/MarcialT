@@ -39,7 +39,7 @@
 ```
 
 
-<h1>Connect With Me🤝</h1>
+<h1 align = "center">Connect With Me🤝</h1>
 
 <!--icons and links-->
 <p align="center">
