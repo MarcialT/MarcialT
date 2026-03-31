@@ -15,6 +15,9 @@
             "HTML"
             "CSS"
             "JavaScript"
+            "TypeScript"
+            "React"
+            "Express"
     },
     "Desktop App Development":{
         "Languages":[
