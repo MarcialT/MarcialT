@@ -6,18 +6,17 @@
 </p>
 
 
-## What I am Good at 🧑‍💻 :
-
 ```sh
 {
     "Web Development":{
-        "Languages":[
+        "Languages and Frameworks":[
             "HTML"
             "CSS"
             "JavaScript"
             "TypeScript"
             "React"
             "Express"
+            "Nest"
     },
     "Desktop App Development":{
         "Languages":[
@@ -32,14 +31,20 @@
             "MongoDB"
     ],
 
-    "Other technologies. Courses & Languages":[
-            "CCNA1"
+    "Other technologies":[
             "git"
             "Visual Studio Code"
             "IntelliJ"
             "Eclipse"
-            "DBschema"
-    ]
+            "Supabase"
+            "Railway"
+            "Vercel"
+    ],
+
+    "Courses and certifications":[
+            "CCNA1"
+            "Java Essentials"
+]
 }
 ```
 
