@@ -54,7 +54,8 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://mail.google.com/mail/u/0/?source=mailto&to=Marcialtrujillo.1234@gmail.com&fs=1&tf=cm"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  </a>
-<a href="https://www.hackerrank.com/profile/marcialtrujillo1" target="blank"><img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackeRank" /></a>
+<a href="https://www.linkedin.com/in/marcialt" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 <div align="center">
   
